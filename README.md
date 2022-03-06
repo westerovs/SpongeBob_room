@@ -2,4 +2,4 @@
 🟢RUN:<br>
 https://westerovs.github.io/SpongeBob_room/
 <br>
-<img src="cover.png">
+<img src="cover1.png">
