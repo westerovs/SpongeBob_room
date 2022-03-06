@@ -1,3 +1,5 @@
-# SpongeBob change room mini-game pure js
+# SpongeBob mini-game
+🟢RUN:<br>
+https://westerovs.github.io/SpongeBob_room/
 <br>
 <img src="cover.png">
