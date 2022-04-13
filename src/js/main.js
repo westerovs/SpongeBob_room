@@ -84,3 +84,4 @@ class Game {
 new Game().init()
 new ActiveTabs('.row-items-bed .button-items', '.bed').init()
 new ActiveTabs('.row-items-wallpaper .button-items', '.wallpaper').init()
+
